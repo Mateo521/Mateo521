@@ -4,7 +4,7 @@
 
 <p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). Mi objetivo es crear soluciones tecnológicas innovadoras y eficientes para abordar desafíos del mundo real.</p>
 
-<h1>EXPERIENCIA</h1>
+<h1>Experiencia</h1>
 
 - **Desarrollador Web en UNSL** (fecha actual)
   - Contribuyo al desarrollo de aplicaciones web y sistemas que mejoran la experiencia de los usuarios y optimizan los procesos internos de la universidad.
@@ -20,11 +20,8 @@ Mi conjunto de habilidades incluye:
 - Lenguajes de programación: Java, JavaScript, TypeScript, Python, PHP.
 - Front-end: Angular, Bootstrap, Tailwind CSS, SASS.
 - Herramientas de desarrollo: Gulp, Git.
-- Bases de datos: MySQL, MySQL Workbench.
+- Bases de datos: MySQL, MySQL Workbench, SQL Server.
 - Servidores y Plataformas en la nube: Node.js, Apache, AWS, Google Cloud.
-
-
-
 
 
 <ul>
@@ -42,7 +39,7 @@ Mi conjunto de habilidades incluye:
     <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀Herramientas que uso</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
