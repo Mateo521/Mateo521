@@ -1,9 +1,32 @@
 <h2>Hey 👋, I'm Matthew</h2>
-<p>I'm currently a software engineer at <strong><a href="http://unsl.edu.ar/">UNSL</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 ARG. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
+
+<h1>Acerca de mí</h1>
+
+<p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). Mi objetivo es crear soluciones tecnológicas innovadoras y eficientes para abordar desafíos del mundo real.</p>
+
+<h1>EXPERIENCIA</h1>
+
+- **Desarrollador Web en UNSL** (fecha actual)
+  - Contribuyo al desarrollo de aplicaciones web y sistemas que mejoran la experiencia de los usuarios y optimizan los procesos internos de la universidad.
+  - Utilizo tecnologías como Angular, Bootstrap, Tailwind CSS, SASS, Gulp, JavaScript, TypeScript, Node.js, PHP, Flask, y Apache para crear aplicaciones web dinámicas y eficientes.
+
+- **Experiencia con CMS**
+  - Tengo experiencia en la implementación y personalización de sistemas de gestión de contenido (CMS) como WordPress, lo que me permite crear sitios web atractivos y funcionales de manera efectiva.
+
+## Lenguajes y Tecnologías
+
+Mi conjunto de habilidades incluye:
+
+- Lenguajes de programación: Java, JavaScript, TypeScript, Python, PHP.
+- Front-end: Angular, Bootstrap, Tailwind CSS, SASS.
+- Herramientas de desarrollo: Gulp, Git.
+- Bases de datos: MySQL, MySQL Workbench.
+- Servidores y Plataformas en la nube: Node.js, Apache, AWS, Google Cloud.
+
+
+
+
+
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
@@ -21,7 +44,6 @@
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="25" height="25" />
@@ -31,12 +53,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="sqlserver" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="25" height="25" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/339px-Apache_Feather_Logo.svg.png" alt="apache" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
