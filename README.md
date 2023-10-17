@@ -72,5 +72,6 @@ Mi conjunto de habilidades incluye:
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="ftp" width="25" height="25" />
      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" alt="ssh" width="25" height="25" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="ssh" width="25" height="25" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="xampp" width="45" height="25" />
 </p>
 
