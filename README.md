@@ -60,5 +60,6 @@ Mi conjunto de habilidades incluye:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="gcp" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="gcp" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Mateo521&show_icons=true&count_private=true" alt="Mateo521" />
