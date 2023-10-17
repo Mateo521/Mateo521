@@ -68,7 +68,7 @@ Mi conjunto de habilidades incluye:
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpmyadmin" width="40" height="25" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" alt="ads" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" alt="ads" width="40" height="25" />
-
-  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" alt="ftp" width="25" height="25" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="ftp" width="25" height="25" />
 </p>
 
