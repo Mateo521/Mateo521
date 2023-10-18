@@ -73,5 +73,6 @@ Mi conjunto de habilidades incluye:
      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" alt="ssh" width="25" height="25" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="ssh" width="25" height="25" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="xampp" width="75" height="25" />
+    <img src="https://www.mamp.info/images/icons/mamp-viewer.png" alt="mamp" width="25" height="25" />
 </p>
 
