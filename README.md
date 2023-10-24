@@ -19,6 +19,59 @@
 </details>
 -->
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
+# Experiencia
+
+## Desarrollador Web en UNSL
+- **Fechas:** (Fecha actual)
+- **Descripción:**
+  - Contribuyo al desarrollo de aplicaciones web y sistemas que mejoran la experiencia de los usuarios y optimizan los procesos internos de la universidad.
+  - Utilizo tecnologías como Angular, Bootstrap, Tailwind CSS, SASS, Gulp, JavaScript, TypeScript, Node.js, PHP, Flask y Apache para crear aplicaciones web dinámicas y eficientes.
+
+## Experiencia con CMS
+- **Descripción:**
+  - Tengo experiencia en la implementación y personalización de sistemas de gestión de contenido (CMS) como WordPress, lo que me permite crear sitios web atractivos y funcionales de manera efectiva.
+
+# Lenguajes y Tecnologías
+
+## Frontend
+- Angular
+- Bootstrap
+- Tailwind CSS
+- Sass
+- CSS
+
+## Backend
+- Java
+- JavaScript
+- TypeScript
+- Python
+- PHP
+
+## Bases de Datos
+- SQL Server
+- MySQL
+- PostgreSQL
+- MySQL Workbench
+
+## Servidores
+- Node.js
+- Apache
+
+## Cloud Computing
+- AWS Cloud9
+- Google Cloud
+
+## CMS
+- WordPress
+
+## Herramientas DevOps
+- Git
+- Docker
+
+## SEO
+- Google Ads
+- Google Analytics
+
 <h2>🚀Herramientas que uso</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
