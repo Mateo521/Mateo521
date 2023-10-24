@@ -7,7 +7,7 @@
   - Utilizo tecnologías como Angular, Bootstrap, Tailwind CSS, SASS, Gulp, JavaScript, TypeScript, Node.js, PHP, Flask, y Apache para crear aplicaciones web dinámicas y eficientes.
 - **Experiencia con CMS**
   - Tengo experiencia en la implementación y personalización de sistemas de gestión de contenido (CMS) como WordPress, lo que me permite crear sitios web atractivos y funcionales de manera efectiva.
-## Lenguajes y Tecnologías
+ **Lenguaje y tecnologias**
 - Frontend: Angular, Bootstrap, Tailwind CSS, Sass, CSS.
 - Backend: Java, JavaScript, TypeScript, Python, PHP.
 - Bases de Datos: SQL Server, MySQL, PostgreSQL, MySQL Workbench.
