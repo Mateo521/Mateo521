@@ -45,8 +45,9 @@
 - JavaScript
 - TypeScript
 - Python
+- Flask
 - PHP
-
+- C
 ## Bases de Datos
 - SQL Server
 - MySQL
