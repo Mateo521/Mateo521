@@ -1,22 +1,14 @@
 <h2>Hey 👋, I'm Matthew</h2>
-
 <h1>Acerca de mí</h1>
-
 <p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). Mi objetivo es crear soluciones tecnológicas innovadoras y eficientes para abordar desafíos del mundo real.</p>
-
 <h1>Experiencia</h1>
-
 - **Desarrollador Web en UNSL** (fecha actual)
   - Contribuyo al desarrollo de aplicaciones web y sistemas que mejoran la experiencia de los usuarios y optimizan los procesos internos de la universidad.
   - Utilizo tecnologías como Angular, Bootstrap, Tailwind CSS, SASS, Gulp, JavaScript, TypeScript, Node.js, PHP, Flask, y Apache para crear aplicaciones web dinámicas y eficientes.
-
 - **Experiencia con CMS**
   - Tengo experiencia en la implementación y personalización de sistemas de gestión de contenido (CMS) como WordPress, lo que me permite crear sitios web atractivos y funcionales de manera efectiva.
-
 ## Lenguajes y Tecnologías
-
 Mi conjunto de habilidades incluye:
-
 - Lenguajes de programación: Java, JavaScript, TypeScript, Python, PHP.
 - Front-end: Angular, Bootstrap, Tailwind CSS, SASS.
 - Herramientas de desarrollo: Gulp, Git.
@@ -37,8 +29,6 @@ Mi conjunto de habilidades incluye:
     <summary>Explore</summary>
     <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
-
-
 -->
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀Herramientas que uso</h2>
@@ -61,18 +51,18 @@ Mi conjunto de habilidades incluye:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/339px-Apache_Feather_Logo.svg.png" alt="apache" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="25" height="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" width="25" height="25" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="25" height="25" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="45" height="25" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpmyadmin" width="40" height="25" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" alt="ads" width="25" height="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" alt="ads" width="40" height="25" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" alt="ftp" width="25" height="25" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="ftp" width="25" height="25" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" alt="ssh" width="25" height="25" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="ssh" width="25" height="25" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="xampp" width="75" height="25" />
-    <img src="https://www.mamp.info/images/icons/mamp-viewer.png" alt="mamp" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="45" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpmyadmin" width="40" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" alt="ads" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" alt="ads" width="40" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" alt="ftp" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="ftp" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" alt="ssh" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="ssh" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="xampp" width="75" height="25" />
+<img src="https://www.mamp.info/images/icons/mamp-viewer.png" alt="mamp" width="25" height="25" />
 </p>
 
