@@ -21,8 +21,7 @@ Mi conjunto de habilidades incluye:
 - Front-end: Angular, Bootstrap, Tailwind CSS, SASS.
 - Herramientas de desarrollo: Gulp, Git.
 - Bases de datos: MySQL, MySQL Workbench, SQL Server.
-- Servidores y Plataformas en la nube: Node.js, Apache, AWS, Google Cloud.
-
+- Servidores y Plataformas en la nube: Node.js, Apache, AWS, Google Cloud
 <!--
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
