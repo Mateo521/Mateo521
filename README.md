@@ -2,20 +2,6 @@
 <h1>Acerca de mí</h1>
 <p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). Mi objetivo es crear soluciones tecnológicas innovadoras y eficientes para abordar desafíos del mundo real.</p>
 <h1>Experiencia</h1>
-- **Desarrollador Web en UNSL** (fecha actual)
-  - Contribuyo al desarrollo de aplicaciones web y sistemas que mejoran la experiencia de los usuarios y optimizan los procesos internos de la universidad.
-  - Utilizo tecnologías como Angular, Bootstrap, Tailwind CSS, SASS, Gulp, JavaScript, TypeScript, Node.js, PHP, Flask, y Apache para crear aplicaciones web dinámicas y eficientes.
-- **Experiencia con CMS**
-  - Tengo experiencia en la implementación y personalización de sistemas de gestión de contenido (CMS) como WordPress, lo que me permite crear sitios web atractivos y funcionales de manera efectiva.
- **Lenguaje y tecnologias**
-- Frontend: Angular, Bootstrap, Tailwind CSS, Sass, CSS.
-- Backend: Java, JavaScript, TypeScript, Python, PHP.
-- Bases de Datos: SQL Server, MySQL, PostgreSQL, MySQL Workbench.
-- Servidores: Node.js, Apache.
-- Cloud Computing: AWS Cloud9, Google Cloud.
-- CMS: WordPress.
-- Herramientas DevOps: Git, Docker.
-- SEO: Google Ads, Google Analytics.
 <!--
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
