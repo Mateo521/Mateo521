@@ -8,7 +8,6 @@
 - **Experiencia con CMS**
   - Tengo experiencia en la implementación y personalización de sistemas de gestión de contenido (CMS) como WordPress, lo que me permite crear sitios web atractivos y funcionales de manera efectiva.
 ## Lenguajes y Tecnologías
-Mi conjunto de habilidades incluye:
 - Frontend: Angular, Bootstrap, Tailwind CSS, Sass, CSS.
 - Backend: Java, JavaScript, TypeScript, Python, PHP.
 - Bases de Datos: SQL Server, MySQL, PostgreSQL, MySQL Workbench.
