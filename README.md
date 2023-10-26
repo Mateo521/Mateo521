@@ -31,6 +31,7 @@
 
 # Lenguajes y Tecnologías
 
+
 ## Frontend
 - Angular
 - Bootstrap
