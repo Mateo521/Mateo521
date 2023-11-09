@@ -11,7 +11,6 @@
 <h2>✒️ Recent Posts</h2>
 -->
 # Experiencia
-
 ## Desarrollador Web en UNSL
 - **Fechas:** (Fecha actual)
 - **Descripción:**
