@@ -17,9 +17,6 @@
   - Contribuyo al desarrollo de aplicaciones web y sistemas que mejoran la experiencia de los usuarios y optimizan los procesos internos de la universidad.
   - Utilizo tecnologías como Angular, Bootstrap, Tailwind CSS, SASS, Gulp, JavaScript, TypeScript, Node.js, PHP, Flask y Apache para crear aplicaciones web dinámicas y eficientes.
 
-## Experiencia con CMS
-- **Descripción:**
-  - Tengo experiencia en la implementación y personalización de sistemas de gestión de contenido (CMS) como WordPress, lo que me permite crear sitios web atractivos y funcionales de manera efectiva.
 
 # Lenguajes y Tecnologías
 
