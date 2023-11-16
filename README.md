@@ -96,3 +96,4 @@
 <img src="https://www.mamp.info/images/icons/mamp-viewer.png" alt="mamp" width="25" height="25" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mateo521=anuraghazra&hide_progress=true)
