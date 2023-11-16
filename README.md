@@ -11,13 +11,7 @@
 <h2>✒️ Recent Posts</h2>
 -->
 # Experiencia
-## Desarrollador Web en UNSL
-- **Fechas:** (Fecha actual)
-- **Descripción:**
-  - Contribuyo al desarrollo de aplicaciones web y sistemas que mejoran la experiencia de los usuarios y optimizan los procesos internos de la universidad.
-  - Utilizo tecnologías como Angular, Bootstrap, Tailwind CSS, SASS, Gulp, JavaScript, TypeScript, Node.js, PHP, Flask y Apache para crear aplicaciones web dinámicas y eficientes.
-
-
+<img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg"/>
 # Lenguajes y Tecnologías
 
 
