@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Matthew</h2>
 <h1>Acerca de mí</h1>
-<p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). Mi objetivo es crear soluciones tecnológicas innovadoras y eficientes para abordar desafíos del mundo real.</p>
+<p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). </p>
 <h1>Experiencia</h1>
 <!--
 <ul>
