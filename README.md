@@ -7,7 +7,6 @@
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 </ul>
-
 <h2>✒️ Recent Posts</h2>
 -->
 # Experiencia
