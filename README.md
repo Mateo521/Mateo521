@@ -9,7 +9,9 @@
 </ul>
 <h2>✒️ Recent Posts</h2>
 
-![github-user-contribution](https://github.com/Mateo521/Mateo521/assets/66658355/31b6b786-d422-4c30-8da6-f10b0ee703d4)
+
+
+![github-user-contribution](https://github.com/Mateo521/Mateo521/assets/66658355/3c2cb035-f699-467d-bdb0-b8bc6f84dc1a)
 
 # Lenguajes y Tecnologías
 
