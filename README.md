@@ -52,6 +52,7 @@ https://essentials.pixfort.com/
 ## Herramientas DevOps
 - Git
 - Docker
+- AWS
 
 ## SEO
 - Google Ads
