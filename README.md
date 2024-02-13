@@ -1,15 +1,11 @@
 <h2>Hey 👋, I'm Matthew</h2>
 <h1>Acerca de mí</h1>
-<p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). </p>
-<h1>Experiencia</h1>
+https://essentials.pixfort.com/
+<!--p>Soy un apasionado estudiante de informática y desarrollador web, actualmente trabajando como desarrollador en la UNSL (Universidad Nacional de San Luis). </p-->
 
-<ul>
-<li>🧐 Learning about <strong>serverless architectures</strong>,  <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-</ul>
 <h2>✒️ Recent Posts</h2>
 
-https://essentials.pixfort.com/
+
 
 ![github-user-contribution](https://github.com/Mateo521/Mateo521/assets/66658355/3c2cb035-f699-467d-bdb0-b8bc6f84dc1a)
 
@@ -59,7 +55,7 @@ https://essentials.pixfort.com/
 - Google Analytics
 
 <h2>🚀Herramientas que uso</h2>
-<p align="left">
+<!--p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="25" height="25" />
@@ -91,7 +87,7 @@ https://essentials.pixfort.com/
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="ssh" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="xampp" width="75" height="25" />
 <img src="https://www.mamp.info/images/icons/mamp-viewer.png" alt="mamp" width="25" height="25" />
-</p>
+</p-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo521&hide_progress=true)
 
